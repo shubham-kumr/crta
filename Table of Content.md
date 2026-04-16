@@ -1,3 +1,4 @@
+# CRTA - Certified Red Team Analyst Syllabus
 
 1. Introduction to Web App Pentesting
     - Web Applications Basics
